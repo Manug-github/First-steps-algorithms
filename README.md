@@ -1,1 +1,3 @@
 # First-steps-algorithms
+
+Introduction to simple problems obtained from Leetcode, CCI, HackerRank...
